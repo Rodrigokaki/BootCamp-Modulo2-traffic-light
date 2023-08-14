@@ -1,0 +1,60 @@
+    body{
+        background-color: black;
+        text-align: -webkit-center;
+    }
+
+    .container{
+        background-color: #FFECCE;
+        width: 450px;
+        padding: 40px;
+
+    }
+
+    .traffic-light{
+        background-color: #808080;
+        width: 100px;
+        height: 250px;
+        
+        border-style: solid;
+        border-width: 12px;
+        border-top-width: 22px;
+        border-bottom-width: 22px;
+
+        margin-bottom: 20px;
+    }
+
+    button{
+        color: #FFFBF4;
+        background-color: #1D0C1F;
+        font-size: 18px;
+        width: 90%;
+        padding: 15px;
+        border: none;
+        border-radius: 5px;
+
+        cursor: pointer;
+    }
+
+    .ball{
+        background-color: #3E3E3E;
+        width: 60px;
+        height: 60px;
+        border-radius: 45%;
+
+        border-style: solid;
+        border-width: 3px;
+
+        margin: 13px;
+    }
+
+    .ball.red{
+        background-color: red;
+    }
+
+    .ball.yellow{
+        background-color: yellow;
+    }
+
+    .ball.green{
+        background-color: #07F607;
+    }
