@@ -47,14 +47,14 @@
         margin: 13px;
     }
 
-    .ball.red{
+    .red{
         background-color: red;
     }
 
-    .ball.yellow{
+    .yellow{
         background-color: yellow;
     }
 
-    .ball.green{
+    .green{
         background-color: #07F607;
     }
