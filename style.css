@@ -35,6 +35,10 @@
         cursor: pointer;
     }
 
+    button:hover{
+        background-color: #891297;
+    }
+
     .ball{
         background-color: #3E3E3E;
         width: 60px;
@@ -47,14 +51,14 @@
         margin: 13px;
     }
 
-    .red{
+    .red-light{
         background-color: red;
     }
 
-    .yellow{
+    .yellow-light{
         background-color: yellow;
     }
 
-    .green{
+    .green-light{
         background-color: #07F607;
     }
